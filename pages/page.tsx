@@ -1,5 +1,5 @@
 export default function Page(){
     return (
-        <h2>Like an about page</h2>
+        <h2>Like an about page!</h2>
     )
 }
